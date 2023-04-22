@@ -3,4 +3,7 @@ class Comprador {
     public Comprador(){
 
     }
+    public static void showhola(){
+        System.out.println("hola");
+    }
 }

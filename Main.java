@@ -3,3 +3,10 @@ public class Main {
 
     }
 }
+
+class Bebida{
+    private int moneda;
+    public Bebida(){
+
+    }
+}
